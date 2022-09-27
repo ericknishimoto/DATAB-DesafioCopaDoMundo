@@ -17,3 +17,6 @@ Dados de todos os resultados da Copa do Mundo entre 1930-2014, com detalhes de c
 - [ ] Quais estádios são "pé quente" e registraram mais gols do Brasil?
 - [ ] Quais partidas entre os mesmos países mais se repetiram? 
 - [ ] Existe alguma tendência de aumento ou diminuição da quantidade de times participantes?
+
+## Quais são os critérios de avaliação?
+Os finalistas serão escolhidos pela equipe interna DATAB com base em insights, criatividade, design, visualizações e capacidade geral de storytelling (contar histórias com dados).
