@@ -1,6 +1,7 @@
 
 # ArenaDATAB - Desafio Copa do Mundo
 
+## 🔥 EM ATUALIZACAO 🔥
 Dados de todos os resultados da Copa do Mundo entre 1930-2014, com detalhes de cada partida (data, fase, cidade, árbitro, time da casa, time visitante, gols) e detalhes de eventos por atleta.
 
 <center><img src="https://user-images.githubusercontent.com/25754870/192645692-bfbe4f32-0a85-4af3-9dc1-c1706801c738.png" alt="drawing" width="200"/></center>
